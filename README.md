@@ -2,7 +2,7 @@
 
 A Multi-Label Intent Classifier for a given real world raw data-set.
 
-The Notebook is named "Intent_Classifier_final.ipny".
+The Notebook is named "Intent_Classifier_final.ipynb".
 
 The Notebook was created in the "Google Colab" setup.
 
